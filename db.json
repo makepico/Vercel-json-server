@@ -1,0 +1,11 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "nomeSerie": "game of thrones",
+      "temporadas": 8,
+      "produtora": "hbo",
+      "anoLancamento": 2012
+    }
+  ]
+}
